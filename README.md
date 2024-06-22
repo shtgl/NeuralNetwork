@@ -1,2 +1,2 @@
 # NeuralNetwork
-Neural network work-space
+Neural-network work space
