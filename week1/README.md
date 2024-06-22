@@ -15,9 +15,8 @@ Then we categorize plant leaves as healthy and unhealthy, which means it is a bi
 Now let's see a sample of healthy and unhealthy plant leaves, which are used to train the model.
 <div align="center">
 	<img src="img/3.png">
-</div>
-<br>
-<div align="center>
-	<img src="img/4.png">
+</div><br><br>
+<div align="center">
+  <img src="img/4.png">
 </div>
 
