@@ -8,7 +8,7 @@ The workspace will use libraries and api to build training models.
 </div>
 
 In week 1, we will use TensorFlow and Keras API to build and analyze
-the accuracy of training vs validation dataset. The credits of dataset goes to <a href="www.kaggle.com">Kaggle</a>.
+the accuracy of training vs validation dataset. The credits of dataset goes to [Kaggle](https://www.kaggle.com/).
 
 # Week 2
 
