@@ -1,4 +1,4 @@
-# Week 2
+# Week 2 - Threat object prediction model
 ## Dataset
 Data of training and validation set is classified into threat and no threat.
 <div align="center">
