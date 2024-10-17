@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 - Plant disease prediction model
 ## Dataset
 The dataset to analyze disease in a plant via shape and texture of leaves, is divided into train and validation set.
 <div align="center">
