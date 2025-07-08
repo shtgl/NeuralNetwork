@@ -76,7 +76,7 @@ jupyter notebook
 
 <div align="justify">
 <div align="center"> 
-<img src="img/2.png" alt="Threat Detection Logo"><i>Schematic of Convolution neural network</i>
+<img src="img/2.png" alt="Threat Detection Logo"><br><i>Schematic of Convolution neural network</i>
 </div>
 
 <br> 
@@ -84,7 +84,7 @@ This project leverages Convolutional Neural Networks (CNNs) for threat detection
 </div><br>
 
 <div align="center"> 
-<img src="img/3.png" alt="Threat Detection Logo"><i>CNN Model Architecture</i> 
+<img src="img/3.png" alt="Threat Detection Logo"><br><i>CNN Model Architecture</i> 
 </div>
 
 **Convolutional Layers (Conv2D)**
@@ -143,11 +143,11 @@ The model was trained for 100 epochs, and performance was monitored using valida
 
 <h3>Visualization</h3>
 <div align="center"> 
-<img src="img/4.png" alt="Threat Detection Logo"><i>Visualization of accuracy for training and validation </i> 
+<img src="img/4.png" alt="Threat Detection Logo"><br><i>Visualization of accuracy for training and validation </i> 
 </div><br>
 
 <div align="center"> 
-<img src="img/5.png" alt="Threat Detection Logo"><i>Visualization of loss from training and validation</i> 
+<img src="img/5.png" alt="Threat Detection Logo"><br><i>Visualization of loss from training and validation</i> 
 </div>
 
 ## References
