@@ -143,11 +143,11 @@ The model was trained for 100 epochs, and performance was monitored using valida
 
 <h3>Visualization</h3>
 <div align="center"> 
-<img src="img/4.png" alt="Threat Detection Logo"><br><i>Visualization of accuracy for training and validation </i> 
+<img src="img/4.png"; alt="Result"; width=500; height=250><br><i>Visualization of accuracy for training and validation </i> 
 </div><br>
 
 <div align="center"> 
-<img src="img/5.png" alt="Threat Detection Logo"><br><i>Visualization of loss from training and validation</i> 
+<img src="img/5.png"; alt="Result"; width=500; height=250><br><i>Visualization of loss from training and validation</i> 
 </div>
 
 ## References
