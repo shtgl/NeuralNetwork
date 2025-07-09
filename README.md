@@ -172,5 +172,5 @@ prediction using machine learning: A systematic literature review. Computers and
 <li>James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). Linear regression. In An Introduction to Statistical Learning: With Applications in Python (pp. 69-134). Cham: Springer International Publishing. </li>
 <li>Ramesh, D., & Vardhan, B. V. (2015). Analysis of crop yield prediction using data mining techniques. International Journal of research in engineering and technology, 4(1), 47-473. </li>
 <li>Lin, G., & Shen, W. (2018). Research on convolutional neural network based on improved Relu piecewise activation function. Procedia computer science, 131, 977-984. </li>
-<li>Lu J, Tan L, Jiang H. Review on Convolutional Neural Network (CNN) Applied to Plant Leaf Disease Classification. https://doi.org/10.3390/agriculture11080707A</li>
+<li>Lu J, Tan L, Jiang H. Review on Convolutional Neural Network (CNN) Applied to Plant Leaf Disease Classification. https://doi.org/10.3390/agriculture11080707</li>
 </ol>
