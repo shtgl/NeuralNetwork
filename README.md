@@ -91,7 +91,7 @@ This project addresses those limitations by automating disease detection through
 <li>Farmers, with quick diagnosis via smartphone-based imaging</li>
 <li>Researchers, with scalable models for dataset labeling and analysis</li>
 <li>Agri-tech platforms, integrating AI-driven diagnostics into larger crop monitoring solutions</li>
-</ul>
+</ul> <br>
 
 **CNN Architecture for Leaf Disease Detection** <br>
 The model architecture was carefully designed for binary image classification, with an optimal input resolution and computational efficiency. 
